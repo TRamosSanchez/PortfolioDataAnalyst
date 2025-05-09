@@ -1,10 +1,10 @@
-# Projet SQL : location touristique en Espagne
+# Projet SQL : location touristique en Espagne (1ère partie)
 
-Ce projet a pour objectif de nettoyer puis d'explorer les données de location touristique en Espagne.
-Plus précisément, il vise à identifier les régions les plus attractives.
+Ce projet a pour objectif d'identifier les régions les plus attractives pour la location touristique en Espagne.
 L'attractivité des régions sera définie par le taux d'occupation et le nombre de biens locatifs sur le marché.
 Ces deux critères seront examinés au niveau global et au niveau de leur évolution récente. 
-Les résultats de ce projet seront utilisés dans Tableau pour créer des visualisations (voir projet Tableau de mon portfolio).
 
-Les fichiers CSV utilisés proviennent du site de l’INE (Instituto Nacional de Estadística) et sont disponible dans ce directory.
-Ce projet a été fait sur MySQL.
+Dans cette première partie du projet, nous allons nettoyer puis préparer les données pour l'export vers Tableau.
+Les fichiers CSV utilisés comme sources proviennent du site de l’INE (Instituto Nacional de Estadística) et sont disponibles dans ce directory.
+
+Dans la deuxième partie du projet, nous créerons une visualisation et nous ferons l'analyse des résultats sur Tableau.
