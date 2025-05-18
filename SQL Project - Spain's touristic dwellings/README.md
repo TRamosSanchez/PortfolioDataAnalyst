@@ -1,10 +1,7 @@
-# Projet SQL : location touristique en Espagne (1ère partie)
+# SQL Project: Tourist Rentals in Spain (Part 1)
 
-Ce projet a pour objectif d'identifier les régions les plus attractives pour la location touristique en Espagne.
-L'attractivité des régions sera définie par le taux d'occupation et le nombre de biens locatifs sur le marché.
-Ces deux critères seront examinés au niveau global et au niveau de leur évolution récente. 
+This project aims to identify the most attractive regions in Spain for short-term tourist rentals from the point of view of an investor. Attractiveness is defined using two key indicators: occupancy rate and number of available rental properties. These metrics are analyzed both in aggregate and in terms of their recent trends.
 
-Dans cette première partie du projet, nous allons nettoyer puis préparer les données pour l'export vers Tableau.
-Les fichiers CSV utilisés comme sources proviennent du site de l’INE (Instituto Nacional de Estadística) et sont disponibles dans ce directory.
+In this first part of the project, the focus is on cleaning, transforming, and preparing the data for visualization in Tableau. The raw data comes from the Instituto Nacional de Estadística (INE) website and is available as CSV files in this directory.
 
-Dans la deuxième partie du projet, nous créerons une visualisation et nous ferons l'analyse des résultats sur Tableau.
+The second part of the project will consist of creating a dashboard in Tableau to visualize the results and draw actionable insights about regional tourist activity.
