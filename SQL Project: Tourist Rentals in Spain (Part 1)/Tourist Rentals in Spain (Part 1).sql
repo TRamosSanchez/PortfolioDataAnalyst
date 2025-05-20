@@ -427,4 +427,4 @@ CREATE VIEW occupancy_per_region_per_year AS
     GROUP BY Region, YEAR(Period);
 -- Note : 2024 occupancy rate only takes into account January to June as we do not yet have data for the rest of the year. This will be clarified again in the visualization to avoid any misinterpretation.
 
--- Extracts from these views will be used for the analysis in Tableau (2nd part of the project)
+-- Extracts from these views will be used for the analysis in Tableau (2nd part of the project that can be found here : https://public.tableau.com/app/profile/tomas.ramos.sanchez/viz/TouristRentalsinSpain/Dashboard1 )
