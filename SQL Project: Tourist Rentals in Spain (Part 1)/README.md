@@ -4,4 +4,4 @@ This project aims to identify the most attractive regions in Spain for short-ter
 
 In this first part of the project, the focus is on cleaning, transforming, and preparing the data for visualization in Tableau. The raw data comes from the Instituto Nacional de Estadística (INE) website and is available as CSV files in this directory.
 
-The second part of the project will consist of creating a dashboard in Tableau to visualize the results and draw actionable insights about regional tourist activity.
+The second part of the project consists of creating a dashboard in Tableau to visualize the results and draw actionable insights about regional tourist activity. Link to the dashboard : https://public.tableau.com/app/profile/tomas.ramos.sanchez/viz/TouristRentalsinSpain/Dashboard1
